@@ -1,0 +1,12 @@
+void on_tray_icon_activate(GtkStatusIcon* icon, gpointer user_data);
+void on_convert_btn_clicked(GtkWidget *widget, gpointer user_data);
+void on_stop_btn_clicked(GtkWidget *widget, gpointer user_data);
+void on_pause_continue_btn_clicked(GtkWidget *widget, gpointer user_data);
+gboolean on_exit_program(GtkWidget *widget, gpointer user_data);
+void on_item_del(GtkWidget *widget, gpointer user_data);
+void on_list_clear(GtkWidget *widget, gpointer user_data);
+void on_about(GtkWidget* widget, gpointer user_data);
+void on_list_drag_data_received(GtkWidget *widget,GdkDragContext *drag_ctx,gint x,gint y,GtkSelectionData  *data,guint32 info,guint32 time);
+void on_item_select(GtkWidget* widget, gpointer user_data);
+void on_a_bitrate_auto(GtkWidget* checkbox, gpointer user_data);
+void on_a_volume_auto(GtkWidget* checkbox, gpointer user_data);

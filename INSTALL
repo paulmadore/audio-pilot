@@ -1,0 +1,2 @@
+Transcoder Audio Edition 0.0.6 requires ffmpeg 0.8 compiled with "--enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-aacenc --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libx264 --enable-libxvid --enable-shared --enable-version3 --enable-gpl" configuration.
+With other versions of ffmpeg or with other configurations some features may not work.

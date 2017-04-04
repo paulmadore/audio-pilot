@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Transcoder Audio Edition
+Comment=Simple audio transcoder for linux
+Icon=/usr/local/share/TranscoderAudioEdition/transcoderaudioedition.png
+Exec=transcoderaudioedition
+Encoding=UTF-8
+Type=Application
+Categories=AudioVideo
